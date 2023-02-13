@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient( rgb(43, 41, 41), rgb(63, 248, 63));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#nbar{
+    font-family: "Dancing Script","cursive";
+    font-size: 20 px;
+}
+
+#icon{
+    color: orange;
+}
